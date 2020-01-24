@@ -23,4 +23,4 @@ Team
 * Salomey Addo - Data Science Researcher, NLP Researcher
 * Alfred Owusu Ansah - Lecturer of English at the Department of English, KNUST, with an interest in Digital Literacy for local languages
 * Acheampong Samuel Owoahene - Likpakpaanl (Konkomba) local language expert
-* Nana Akwasi Abayie Boateng - Researcher
+* [Nana Akwasi Abayie Boateng](http://restanalytics.com/) - Machine Learning Researcher
