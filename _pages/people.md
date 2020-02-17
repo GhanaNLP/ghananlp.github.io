@@ -25,3 +25,4 @@ Team
 * Acheampong Samuel Owoahene - Likpakpaanl (Konkomba) local language expert
 * [Nana Akwasi Abayie Boateng](http://restanalytics.com/) - Machine Learning Researcher
 * David Sasu - Computer Scientist and Research Engineer
+* Richard Baffour-Awuah - Data Scientist (The Home Depot)
