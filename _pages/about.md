@@ -21,6 +21,6 @@ Broad Agenda
 
 Sponsors and Partners
 ======
-![Microsoft](https://github.com/GhanaNLP/ghananlp.github.io/blob/master/files/MSFT_logo.png) 
-![Algorine](https://github.com/GhanaNLP/ghananlp.github.io/blob/master/files/ALGORINE_LOGO_smaller.png) 
-![GAJ](https://github.com/GhanaNLP/ghananlp.github.io/blob/master/files/gaj_smaller.png)
+![Microsoft](https://github.com/GhanaNLP/ghananlp.github.io/blob/master/files/MSFT_logo.png | width=100) 
+![Algorine](https://github.com/GhanaNLP/ghananlp.github.io/blob/master/files/ALGORINE_LOGO_smaller.png | width=100) 
+![GAJ](https://github.com/GhanaNLP/ghananlp.github.io/blob/master/files/gaj_smaller.png) | width=100
