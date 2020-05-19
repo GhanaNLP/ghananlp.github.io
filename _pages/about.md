@@ -21,4 +21,4 @@ Broad Agenda
 
 Sponsors and Partners
 ======
-![Microsoft](https://github.com/GhanaNLP/ghananlp.github.io/files/MSFT_logo.png) Algorine Gaj
+![Microsoft](https://github.com/GhanaNLP/ghananlp.github.io/blob/master/files/MSFT_logo.png) Algorine Gaj
