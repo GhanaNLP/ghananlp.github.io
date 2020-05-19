@@ -18,3 +18,7 @@ Broad Agenda
 * Develop better data sources to train state-of-the-art (SOTA) NLP techniques for Ghanaian languages
 * Contribute to adapting SOTA techiques to work better in a lower resource setting such as this one
 * Build functional systems for local applications, e.g., a "Google Translate" for Twi, Ewe, Frafra, etc.
+
+Sponsors and Partners
+======
+Microsoft Algorine Gaj
