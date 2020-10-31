@@ -23,6 +23,9 @@ Team
 * Salomey Addo - Data Science Researcher, NLP Researcher
 * Alfred Owusu Ansah - Lecturer of English at the Department of English, KNUST, with an interest in Digital Literacy for local languages
 * Acheampong Samuel Owoahene - Likpakpaanl (Konkomba) local language expert
+
+* [Nana Akwasi Abayie Boateng](http://restanalytics.com/) -  Machine Learning  Researcher
+
 * [Nana Akwasi Abayie Boateng](http://restanalytics.com/) - Machine Learning Researcher
 * David Sasu - Computer Scientist and Research Engineer
 * [Lawrence Adu-Gyamfi](https://www.linkedin.com/in/lawrence-adu-gyamfi/) - Subsea Engineer
@@ -31,4 +34,5 @@ Team
 * [Emmanuel Coffie Debrah](https://linkedin.com/in/kweku-debrah-78ab5118a) - Computer Scientist and NLP Researcher
 * [Samuel Opoku-Agyemang](https://samuelopokuagyemang.com) - Software Engineer
 * [Albert Opoku](https://opokualbert.com/about/) - AI/ML Model Validation Analyst at U.S. Bank
+
 
